@@ -1,107 +1,60 @@
 Singular and Plural Nouns
 
-A noun is a word that names a person, place, thing, animal, or idea.
+A noun names a person, place, thing, or idea.
 
-Nouns help us identify and talk about the people, objects, animals, places, and ideas around us. Words such as mother, school, book, and happiness are nouns. Understanding singular and plural nouns helps us communicate clearly about one thing or more than one thing.
+Usually, the first page of a grammar book tells you about nouns. Nouns give names of concrete or abstract things in our lives. As babies learn "mom," "dad," or "milk" as their first word, nouns should be the first topic when you study a foreign language.
 
-Singular nouns
+For the plural form of most nouns, add s.
 
-Refer to one person, place, thing, animal, or idea.
+bottle – bottles
+cup – cups
+pencil – pencils
+desk – desks
+sticker – stickers
+window – windows
+For nouns that end in ch, x, s, or s sounds, add es.
 
-bottle, cup, pencil, desk, sticker, window, box, watch, wolf, wife, leaf, child, woman, man, mouse, goose, baby, toy, kidney, potato, memo, stereo, sheep, deer, series, species, etc.
+box – boxes
+watch – watches
+moss – mosses
+bus – buses
+For nouns ending in f or fe, change f to v and add es.
 
-Plural nouns
+wolf – wolves
+wife – wives
+leaf – leaves
+life – lives
+Some nouns have different plural forms.
 
-Refer to more than one person, place, thing, animal, or idea.
+child – children
+woman – women
+man – men
+mouse – mice
+goose – geese
+Nouns ending in vowels like y or o do not have definite rules.
 
-bottles, cups, pencils, desks, stickers, windows, boxes, watches, wolves, wives, leaves, children, women, men, mice, geese, babies, toys, kidneys, potatoes, memos, stereos, sheep, deer, series, species, etc.
-Add -s to Most Nouns
+baby – babies
+toy – toys
+kidney – kidneys
+potato – potatoes
+memo – memos
+stereo – stereos
+A few nouns have the same singular and plural forms.
 
-Most singular nouns form the plural by adding s.
+sheep – sheep
+deer – deer
+series – series
+species – species
 
-bottle → bottles
-cup → cups
-pencil → pencils
-desk → desks
-sticker → stickers
-window → windows
-Add -es to Nouns Ending in ch, x, s, sh, or Similar Sounds
+[Quiz 1.1]
 
-These nouns usually form the plural by adding es.
+Choose the correct form of the noun in each sentence.
 
-box → boxes
-watch → watches
-moss → mosses
-bus → buses
-Nouns Ending in f or fe
-
-Many nouns ending in f or fe form the plural by changing f to v and adding es.
-
-wolf → wolves
-wife → wives
-leaf → leaves
-life → lives
-Irregular Plural Nouns
-
-Some nouns have special plural forms that do not follow regular rules.
-
-child → children
-woman → women
-man → men
-mouse → mice
-goose → geese
-Nouns Ending in y or o
-
-These nouns may follow different pluralization patterns.
-
-baby → babies
-toy → toys
-kidney → kidneys
-potato → potatoes
-memo → memos
-stereo → stereos
-Nouns with the Same Singular and Plural Form
-
-Some nouns remain the same whether they are singular or plural.
-
-sheep → sheep
-deer → deer
-series → series
-species → species
-
-Using Singular and Plural Nouns in Sentences
-
-I have one child.
-I have three children.
-A woman is waiting outside.
-Five men are working in the garden.
-The baby is sleeping.
-The babies are playing with toys.
-There is a potato in the basket.
-There are two potatoes in the basket.
-I saw a mouse in the house.
-I saw several mice near the field.
-
-[Quiz 2.1]
-
-Choose the correct form of the noun to complete each sentence.
-
-I have three (child / children).
-There are five (man / men) and one (woman / women).
-(Baby / Babies) play with bottles as toys.
-I put two large (potato / potatoes) in the lunch box.
-A few men wear (watch / watches).
-I put a (memo / memos) on the desk.
-I saw a (mouse / mice) running by.
-There are few (bus / buses) on the road today.
-
-Answers
-
-children
-men, woman
-Babies
-potatoes
-watches
-memo
-mouse
-buses
+1)I have three (child, children).
+2)There are five (man, men) and one (woman, women).
+3)(Baby, Babies) play with bottles as toys.
+4)I put two big (potato, potatoes) in the lunch box.
+5)A few men wear (watch, watches).
+6)I put a (memo, memos) on the desk.
+7)I saw a (mouse, mice) running by.
+8)There are few (bus, buses) on the road today.
