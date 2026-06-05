@@ -1,71 +1,102 @@
-﻿Singular and Plural Nouns
+# Singular and Plural Nouns
 
-A noun names a person, place, thing, or idea.
+A **noun** is a word that names a person, place, thing, animal, or idea.
 
+Nouns are one of the most important parts of speech because they help us identify and talk about the world around us. Words like *mother*, *school*, *book*, and *happiness* are all nouns. Since nouns represent the people, objects, and concepts we encounter every day, they are often among the first words children learn and are a fundamental topic when studying any language.
 
-Usually, the first page of a grammar book tells you about nouns. Nouns give names of concrete or abstract things in our lives. As babies learn "mom," "dad," or "milk" as their first word, nouns should be the first topic when you study a foreign language.
+## Forming Plural Nouns
 
+### 1. Add **-s** to Most Nouns
 
-For the plural form of most nouns, add s.
+For most nouns, simply add **s** to make them plural.
 
+| Singular | Plural   |
+| -------- | -------- |
+| bottle   | bottles  |
+| cup      | cups     |
+| pencil   | pencils  |
+| desk     | desks    |
+| sticker  | stickers |
+| window   | windows  |
 
-* bottle – bottles
-* cup – cups
-* pencil – pencils
-* desk – desks
-* sticker – stickers
-* window – windows
-For nouns that end in ch, x, s, or s sounds, add es.
+### 2. Add **-es** to Nouns Ending in **ch, x, s, sh**, or Similar Sounds
 
+| Singular | Plural  |
+| -------- | ------- |
+| box      | boxes   |
+| watch    | watches |
+| moss     | mosses  |
+| bus      | buses   |
 
-* box – boxes
-* watch – watches
-* moss – mosses
-* bus – buses
-For nouns ending in f or fe, change f to v and add es.
+### 3. Nouns Ending in **f** or **fe**
 
+Many nouns ending in **f** or **fe** form their plural by changing **f** to **v** and adding **es**.
 
-* wolf – wolves
-* wife – wives
-* leaf – leaves
-* life – lives
-Some nouns have different plural forms.
+| Singular | Plural |
+| -------- | ------ |
+| wolf     | wolves |
+| wife     | wives  |
+| leaf     | leaves |
+| life     | lives  |
 
+### 4. Irregular Plural Nouns
 
-* child – children
-* woman – women
-* man – men
-* mouse – mice
-* goose – geese
-Nouns ending in vowels like y or o do not have definite rules.
+Some nouns have unique plural forms that do not follow standard rules.
 
+| Singular | Plural   |
+| -------- | -------- |
+| child    | children |
+| woman    | women    |
+| man      | men      |
+| mouse    | mice     |
+| goose    | geese    |
 
-* baby – babies
-* toy – toys
-* kidney – kidneys
-* potato – potatoes
-* memo – memos
-* stereo – stereos
-A few nouns have the same singular and plural forms.
+### 5. Nouns Ending in **y** or **o**
 
+Nouns ending in **y** or **o** can follow different pluralization patterns, so it is important to learn them individually.
 
-* sheep – sheep
-* deer – deer
-* series – series
-* species – species
+| Singular | Plural   |
+| -------- | -------- |
+| baby     | babies   |
+| toy      | toys     |
+| kidney   | kidneys  |
+| potato   | potatoes |
+| memo     | memos    |
+| stereo   | stereos  |
 
+### 6. Nouns with the Same Singular and Plural Form
 
-[Quiz 1.1]
+A few nouns remain unchanged whether they are singular or plural.
 
+| Singular | Plural  |
+| -------- | ------- |
+| sheep    | sheep   |
+| deer     | deer    |
+| series   | series  |
+| species  | species |
 
-Choose the correct form of the noun in each sentence.
+---
 
+## Practice Quiz
 
-1)I have three (child, children).
-2)There are five (man, men) and one (woman, women).
-3)(Baby, Babies) play with bottles as toys.
-4)I put two big (potato, potatoes) in the lunch box.
-5)A few men wear (watch, watches).
-6)I put a (memo, memos) on the desk.
-7)I saw a (mouse, mice) running by.
-8)There are few (bus, buses) on the road today.
+Choose the correct form of the noun to complete each sentence.
+
+1. I have three (**child / children**).
+2. There are five (**man / men**) and one (**woman / women**).
+3. (**Baby / Babies**) play with bottles as toys.
+4. I put two large (**potato / potatoes**) in the lunch box.
+5. A few men wear (**watch / watches**).
+6. I put a (**memo / memos**) on the desk.
+7. I saw a (**mouse / mice**) running by.
+8. There are few (**bus / buses**) on the road today.
+
+### Answers
+
+1. children
+2. men, woman
+3. Babies
+4. potatoes
+5. watches
+6. memo
+7. mouse
+8. buses
