@@ -2,66 +2,87 @@ Singular and Plural Nouns
 
 A noun is a word that names a person, place, thing, animal, or idea.
 
-Nouns are one of the most important parts of speech because they help us identify and talk about the world around us. Words like mother, school, book, and happiness are all nouns. Since nouns represent the people, objects, and concepts we encounter every day, they are often among the first words children learn and are a fundamental topic when studying any language.
+Nouns help us identify and talk about the people, objects, animals, places, and ideas around us. Words such as mother, school, book, and happiness are nouns. Understanding singular and plural nouns helps us communicate clearly about one thing or more than one thing.
 
-Forming Plural Nouns
-1. Add -s to Most Nouns
+Singular nouns
 
-For most nouns, simply add s to make them plural.
+Refer to one person, place, thing, animal, or idea.
 
-Singular	Plural
-bottle	bottles
-cup	cups
-pencil	pencils
-desk	desks
-sticker	stickers
-window	windows
-2. Add -es to Nouns Ending in ch, x, s, sh, or Similar Sounds
-Singular	Plural
-box	boxes
-watch	watches
-moss	mosses
-bus	buses
-3. Nouns Ending in f or fe
+bottle, cup, pencil, desk, sticker, window, box, watch, wolf, wife, leaf, child, woman, man, mouse, goose, baby, toy, kidney, potato, memo, stereo, sheep, deer, series, species, etc.
 
-Many nouns ending in f or fe form their plural by changing f to v and adding es.
+Plural nouns
 
-Singular	Plural
-wolf	wolves
-wife	wives
-leaf	leaves
-life	lives
-4. Irregular Plural Nouns
+Refer to more than one person, place, thing, animal, or idea.
 
-Some nouns have unique plural forms that do not follow standard rules.
+bottles, cups, pencils, desks, stickers, windows, boxes, watches, wolves, wives, leaves, children, women, men, mice, geese, babies, toys, kidneys, potatoes, memos, stereos, sheep, deer, series, species, etc.
+Add -s to Most Nouns
 
-Singular	Plural
-child	children
-woman	women
-man	men
-mouse	mice
-goose	geese
-5. Nouns Ending in y or o
+Most singular nouns form the plural by adding s.
 
-Nouns ending in y or o can follow different pluralization patterns, so it is important to learn them individually.
+bottle → bottles
+cup → cups
+pencil → pencils
+desk → desks
+sticker → stickers
+window → windows
+Add -es to Nouns Ending in ch, x, s, sh, or Similar Sounds
 
-Singular	Plural
-baby	babies
-toy	toys
-kidney	kidneys
-potato	potatoes
-memo	memos
-stereo	stereos
-6. Nouns with the Same Singular and Plural Form
+These nouns usually form the plural by adding es.
 
-A few nouns remain unchanged whether they are singular or plural.
+box → boxes
+watch → watches
+moss → mosses
+bus → buses
+Nouns Ending in f or fe
 
-Singular	Plural
-sheep	sheep
-deer	deer
-series	series
-species	species
-Practice Quiz
+Many nouns ending in f or fe form the plural by changing f to v and adding es.
+
+wolf → wolves
+wife → wives
+leaf → leaves
+life → lives
+Irregular Plural Nouns
+
+Some nouns have special plural forms that do not follow regular rules.
+
+child → children
+woman → women
+man → men
+mouse → mice
+goose → geese
+Nouns Ending in y or o
+
+These nouns may follow different pluralization patterns.
+
+baby → babies
+toy → toys
+kidney → kidneys
+potato → potatoes
+memo → memos
+stereo → stereos
+Nouns with the Same Singular and Plural Form
+
+Some nouns remain the same whether they are singular or plural.
+
+sheep → sheep
+deer → deer
+series → series
+species → species
+
+Using Singular and Plural Nouns in Sentences
+
+I have one child.
+I have three children.
+A woman is waiting outside.
+Five men are working in the garden.
+The baby is sleeping.
+The babies are playing with toys.
+There is a potato in the basket.
+There are two potatoes in the basket.
+I saw a mouse in the house.
+I saw several mice near the field.
+
+[Quiz 2.1]
 
 Choose the correct form of the noun to complete each sentence.
 
@@ -73,7 +94,9 @@ A few men wear (watch / watches).
 I put a (memo / memos) on the desk.
 I saw a (mouse / mice) running by.
 There are few (bus / buses) on the road today.
+
 Answers
+
 children
 men, woman
 Babies
